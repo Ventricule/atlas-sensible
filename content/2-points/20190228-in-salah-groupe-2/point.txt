@@ -1,0 +1,96 @@
+H1: 
+
+----
+
+Title: In Salah Groupe 2
+
+----
+
+Author: roadie
+
+----
+
+H2: 
+
+----
+
+Photos: 
+
+- dscf9177-copy1.jpg
+- 3.jpg
+- dscf9182-copy.jpg
+- dscf9143-copy1.jpg
+- dji_0033.jpg
+
+----
+
+Medias: 
+
+----
+
+Text: 
+
+----
+
+Informations: 
+
+- 
+  icon: calendar
+  text: "2017"
+  _fieldset: annee
+- 
+  icon: light-up
+  text: Plateau du Tadmaït
+  _fieldset: place
+
+----
+
+H3: 
+
+----
+
+Locationtoggle: lieu
+
+----
+
+Lieu: plateau-du-tadmait
+
+----
+
+Location: 
+
+----
+
+H4: 
+
+----
+
+Relation: 
+
+----
+
+Attache: 
+
+----
+
+H5: 
+
+----
+
+Keywords: 
+
+----
+
+H6: 
+
+----
+
+Startdate: 
+
+----
+
+Enddate: 
+
+----
+
+Date: 

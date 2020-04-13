@@ -1,0 +1,132 @@
+Title: Alger Groupe 1
+
+----
+
+Location: [[36.789130205710464,3.063681162893772]]
+
+----
+
+Lignes: 
+
+----
+
+Relation: lignes/les-ambassades
+
+----
+
+Date: 2019-02-06
+
+----
+
+Startdate: 
+
+----
+
+Enddate: 
+
+----
+
+Starttime: 00:00
+
+----
+
+Endtime: 
+
+----
+
+Contenu: 
+
+----
+
+Media: 
+
+- 
+  image: >
+    image2013snafesnafellstaptafell-copy-600x390.jpg
+  caption: >
+    Anne Herzog, Volcan Snæfellsjökull,
+    crayon sur papier, 21 x 29 cm
+  _fieldset: image
+
+----
+
+Text: 
+
+« À LA RENVERSE »
+Louise Dib - avec Chanez, Ghilès, Amine, Yasmine, Ikram, Rabab
+«À la renverse», ou le naufrage d’une embarcation de Haraga qui inversera peut-être le cours des choses ?
+
+----
+
+Infos: 
+
+----
+
+Informations: 
+
+- 
+  icon: calendar
+  text: "2016"
+  _fieldset: annee
+- 
+  icon: air
+  text: Plage de Qa3ssour
+  _fieldset: place
+
+----
+
+Photos: 
+
+- image.png
+- rn1-bab-el-oued-by-hichem_merouche-2.jpg
+- rn1-bab-el-oued-by-hichem_merouche-3.jpg
+- rn1-bab-el-oued-by-hichem_merouche-4.jpg
+- rn1-bab-el-oued-by-hichem_merouche-5.jpg
+
+----
+
+Mediatoggle: none
+
+----
+
+Embed: 
+
+----
+
+Audiofile: 
+
+----
+
+Audiostart: 
+
+----
+
+Radio: 
+
+----
+
+Locationtoggle: carte
+
+----
+
+Lieu: 
+
+----
+
+Modified: 2016-11-15
+
+----
+
+Keywords: 
+
+----
+
+Attache: khiasma
+
+----
+
+Author: roadie
+
+----
+
+Medias: 

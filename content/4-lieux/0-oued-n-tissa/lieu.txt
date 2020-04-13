@@ -1,0 +1,50 @@
+H1: 
+
+----
+
+Title: Ghardaïa Oued N'tissa
+
+----
+
+Author: roadie
+
+----
+
+H2: 
+
+----
+
+Photos: 
+
+- capture-decran-2018-02-05-a-13.49.53.png
+- p1010021.jpg
+- p9283957.jpg
+- capture-decran-2019-02-28-a-15.48.26.png
+
+----
+
+Medias: 
+
+----
+
+Text: 
+
+----
+
+Informations: 
+
+----
+
+H3: 
+
+----
+
+Keywords: 
+
+----
+
+H4: 
+
+----
+
+Location: [[32.46324491184963,3.682732656598091]]

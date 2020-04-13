@@ -1,0 +1,10 @@
+title: Page
+pages: true
+files: false
+fields:
+  title:
+    label: Title
+    type:  text
+  color:
+    label: Couleur
+    type: color

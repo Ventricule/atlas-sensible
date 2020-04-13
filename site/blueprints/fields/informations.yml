@@ -1,0 +1,284 @@
+label: Informations
+type: builder
+style: table
+modalsize: large
+fieldsets:
+	infos:
+		label: Infos
+		snippet: builder/info
+		fields:
+			icon:
+				label: Icône
+				type: iconview
+				placeholder: Entrez le nom d'un icône
+				default: help-with-circle
+				icon: help-with-circle
+				help: <a href="http://g00glen00b.github.io/entypo/dist/demo/EntypoPlus.html#" target="_blank">Liste des icônes</a>
+				width: 1/4
+			text:
+				label: Infos
+				type: text
+				width: 3/4
+	author:
+		label: Artiste / Auteur
+		snippet: builder/info
+		fields:
+			icon:
+				label: Icône
+				type: iconview
+				placeholder: Entrez le nom d'un icône
+				default: user
+				icon: user
+				help: <a href="http://g00glen00b.github.io/entypo/dist/demo/EntypoPlus.html#" target="_blank">Liste des icônes</a>
+				width: 1/4
+			text:
+				label: Artiste / Auteur
+				type: text
+				width: 3/4
+	sound:
+		label: Prise de son
+		snippet: builder/info
+		fields:
+			icon:
+				label: Icône
+				type: iconview
+				default: mic
+				icon: mic
+				width: 1/4
+			text:
+				label: Prise de son
+				type: text
+				width: 3/4
+	production:
+		label: Production
+		snippet: builder/info
+		fields:
+			icon:
+				label: Icône
+				type: iconview
+				default: tree
+				icon: tree
+				width: 1/4
+			text:
+				label: Producteur
+				type: text
+				width: 3/4
+	link:
+		label: Lien
+		snippet: builder/info
+		fields:
+			icon:
+				label: Icône
+				type: iconview
+				placeholder: Entrez le nom d'un icône
+				default: link
+				icon: link
+				help: <a href="http://g00glen00b.github.io/entypo/dist/demo/EntypoPlus.html#" target="_blank">Liste des icônes</a>
+				width: 1/4
+			text:
+				label: Lien
+				type: text
+				width: 3/4
+	public:
+		label: Public
+		snippet: builder/info
+		fields:
+			icon:
+				label: Icône
+				type: iconview
+				placeholder: Entrez le nom d'un icône
+				default: users
+				icon: users
+				help: <a href="http://g00glen00b.github.io/entypo/dist/demo/EntypoPlus.html#" target="_blank">Liste des icônes</a>
+				width: 1/4
+			text:
+				label: Public
+				type: text
+				width: 3/4
+	annee:
+		label: Année
+		snippet: builder/info
+		fields:
+			icon:
+				label: Icône
+				type: iconview
+				placeholder: Entrez le nom d'un icône
+				default: calendar
+				icon: calendar
+				help: <a href="http://g00glen00b.github.io/entypo/dist/demo/EntypoPlus.html#" target="_blank">Liste des icônes</a>
+				width: 1/4
+			text:
+				label: Année
+				type: text
+				width: 3/4
+	duree:
+		label: Durée
+		snippet: builder/info
+		fields:
+			icon:
+				label: Icône
+				type: iconview
+				placeholder: Entrez le nom d'un icône
+				default: clock
+				icon: clock
+				help: <a href="http://g00glen00b.github.io/entypo/dist/demo/EntypoPlus.html#" target="_blank">Liste des icônes</a>
+				width: 1/4
+			text:
+				label: Durée
+				type: text
+				width: 3/4
+	place:
+		label: Lieu
+		snippet: builder/info
+		fields:
+			icon:
+				label: Icône
+				type: iconview
+				placeholder: Entrez le nom d'un icône
+				default: home
+				icon: home
+				help: <a href="http://g00glen00b.github.io/entypo/dist/demo/EntypoPlus.html#" target="_blank">Liste des icônes</a>
+				width: 1/4
+			text:
+				label: Lieu
+				type: text
+				width: 3/4
+	email:
+		label: Email
+		snippet: builder/info
+		fields:
+			icon:
+				label: Icône
+				type: iconview
+				placeholder: Entrez le nom d'un icône
+				default: mail
+				icon: mail
+				help: <a href="http://g00glen00b.github.io/entypo/dist/demo/EntypoPlus.html#" target="_blank">Liste des icônes</a>
+				width: 1/4
+			text:
+				label: Email
+				type: text
+				width: 3/4
+	phonenumber:
+		label: Numéro de téléphone
+		snippet: builder/info
+		fields:
+			icon:
+				label: Icône
+				type: iconview
+				placeholder: Entrez le nom d'un icône
+				default: phone
+				icon: phone
+				help: <a href="http://g00glen00b.github.io/entypo/dist/demo/EntypoPlus.html#" target="_blank">Liste des icônes</a>
+				width: 1/4
+			text:
+				label: Numéro de téléphone
+				type: tel
+				width: 3/4
+	adress:
+		label: Adresse
+		snippet: builder/info
+		fields:
+			icon:
+				label: Icône
+				type: iconview
+				placeholder: Entrez le nom d'un icône
+				default: map
+				icon: map
+				help: <a href="http://g00glen00b.github.io/entypo/dist/demo/EntypoPlus.html#" target="_blank">Liste des icônes</a>
+				width: 1/4
+			text:
+				label: Adresse
+				type: text
+				width: 3/4
+	bus:
+		label: Accès bus
+		snippet: builder/info
+		snippet: builder/info
+		fields:
+			icon:
+				label: Icône
+				type: iconview
+				placeholder: Entrez le nom d'un icône
+				default: fa-bus
+				icon: fa-bus
+				help: <a href="http://g00glen00b.github.io/entypo/dist/demo/EntypoPlus.html#" target="_blank">Liste des icônes</a>
+				width: 1/4
+			text:
+				label: Accès bus
+				type: text
+				width: 3/4
+	subway:
+		label: Accès métro
+		snippet: builder/info
+		fields:
+			icon:
+				label: Icône
+				type: iconview
+				placeholder: Entrez le nom d'un icône
+				default: fa-subway
+				icon: fa-subway
+				help: <a href="http://g00glen00b.github.io/entypo/dist/demo/EntypoPlus.html#" target="_blank">Liste des icônes</a>
+				width: 1/4
+			text:
+				label: Accès métro
+				type: text
+				width: 3/4
+	car:
+		label: Accès voiture
+		snippet: builder/info
+		fields:
+			icon:
+				label: Icône
+				type: iconview
+				placeholder: Entrez le nom d'un icône
+				default: fa-car
+				icon: fa-car
+				help: <a href="http://g00glen00b.github.io/entypo/dist/demo/EntypoPlus.html#" target="_blank">Liste des icônes</a>
+				width: 1/4
+			text:
+				label: Accès voiture
+				type: text
+				width: 3/4
+	important:
+		label: Important
+		snippet: builder/info
+		fields:
+			icon:
+				label: Icône
+				type: iconview
+				placeholder: Entrez le nom d'un icône
+				default: new
+				icon: new
+				help: <a href="http://g00glen00b.github.io/entypo/dist/demo/EntypoPlus.html#" target="_blank">Liste des icônes</a>
+				width: 1/4
+			text:
+				label: Important
+				type: text
+				width: 3/4
+	other:
+		label: Autre
+		snippet: builder/info
+		fields:
+			icon:
+				label: Icône
+				type: iconview
+				placeholder: Entrez le nom d'un icône
+				default:
+				icon: dot
+				width: 1/4
+			text:
+				label: Texte
+				type: text
+				width: 3/4
+			iconlist:
+				label: Icon
+				type: iconlist
+	space:
+		label: Séparateur
+		entry: —
+		fields:
+			info:
+				label: Espace
+				type: info
+				text: Ajoute un espace pour séparer des blocs d'infos

@@ -1,0 +1,105 @@
+H1: 
+
+----
+
+Title: Alger Groupe 3
+
+----
+
+Author: roadie
+
+----
+
+H2: 
+
+----
+
+Photos: 
+
+- >
+  rn1-bab-el-oued-by-hichem_merouche-11.jpg
+- >
+  rn1-bab-el-oued-by-hichem_merouche-12.jpg
+- >
+  rn1-bab-el-oued-by-hichem_merouche-13.jpg
+- >
+  rn1-bab-el-oued-by-hichem_merouche-14.jpg
+- >
+  rn1-bab-el-oued-by-hichem_merouche-15.jpg
+
+----
+
+Medias: 
+
+----
+
+Text: 
+
+« UNE PORTE VERS L’AVENIR »
+Riad Hamed Abdelouahab avec Mehdi, Selma, Aziz, Amel, Yasmina
+«Une porte vers l’avenir», ou le chemin de la vie avec ses peines et ses envies comme bagages.
+
+----
+
+Informations: 
+
+- 
+  icon: calendar
+  text: "2016"
+  _fieldset: annee
+- 
+  icon: air
+  text: Plage de Qa3ssour
+  _fieldset: place
+
+----
+
+H3: 
+
+----
+
+Locationtoggle: carte
+
+----
+
+Lieu: 
+
+----
+
+Location: [[36.78880370389586,3.063974529504776]]
+
+----
+
+H4: 
+
+----
+
+Relation: 
+
+----
+
+Attache: 
+
+----
+
+H5: 
+
+----
+
+Keywords: 
+
+----
+
+H6: 
+
+----
+
+Startdate: 
+
+----
+
+Enddate: 
+
+----
+
+Date: 2019-02-06

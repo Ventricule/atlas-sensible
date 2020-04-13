@@ -1,0 +1,96 @@
+H1: 
+
+----
+
+Title: Laghouat Groupe 2
+
+----
+
+Author: roadie
+
+----
+
+H2: 
+
+----
+
+Photos: 
+
+- img_8461.jpg
+- img_8466.jpg
+- img_8463.jpg
+- img_8467.jpg
+- img_8458.jpg
+
+----
+
+Medias: 
+
+----
+
+Text: Couronne
+
+----
+
+Informations: 
+
+- 
+  icon: calendar
+  text: "2017"
+  _fieldset: annee
+- 
+  icon: leaf
+  text: Ksar el Marhoun
+  _fieldset: place
+
+----
+
+H3: 
+
+----
+
+Locationtoggle: carte
+
+----
+
+Lieu: 
+
+----
+
+Location: [[33.85958254798477,2.7410137653350826]]
+
+----
+
+H4: 
+
+----
+
+Relation: 
+
+----
+
+Attache: 
+
+----
+
+H5: 
+
+----
+
+Keywords: 
+
+----
+
+H6: 
+
+----
+
+Startdate: 
+
+----
+
+Enddate: 
+
+----
+
+Date: 2019-02-05

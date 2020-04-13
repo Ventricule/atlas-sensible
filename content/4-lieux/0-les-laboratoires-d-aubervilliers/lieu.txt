@@ -1,0 +1,112 @@
+Title: Laghouat - Ksar el Mahroun
+
+----
+
+Location: [[33.88195973819444,2.669602632522583]]
+
+----
+
+Lignes: 
+
+----
+
+Relation: points/artnord,lignes/un-second-itineraire,lignes/plantes-resistantes
+
+----
+
+Date: 2016-02-05
+
+----
+
+Startdate: 
+
+----
+
+Enddate: 
+
+----
+
+Starttime: 
+
+----
+
+Endtime: 
+
+----
+
+Contenu: 
+
+----
+
+Media: 
+
+- 
+  image: bock25b.jpg
+  caption: ""
+  _fieldset: image
+
+----
+
+Text: 
+
+Utilisé comme décor pour le film "le puits", nous avons choisi ce site avec l'aide de Aziz de l'association Mammouth Photo Club.
+Vieux de plus de 1000 ans, il se compose de falaises, d'un barrage, d'une plaine de pâturages, d'un oued fleuri et bien sûr du vieux ksar.
+
+----
+
+Infos: 
+
+----
+
+Informations: 
+
+- 
+  icon: link
+  text: >
+    https://fr.wikipedia.org/wiki/Le_Puits_(film,_2016)
+  _fieldset: link
+- 
+  icon: leaf
+  text: Ksar Mahroun
+  _fieldset: place
+
+----
+
+Photos: 
+
+- capture-decran-2017-09-12-a-15.25.29.png
+- capture-decran-2017-09-12-a-15.25.35.png
+- img_9661.jpg
+- p9213090.jpg
+
+----
+
+Mediatoggle: none
+
+----
+
+Embed: 
+
+----
+
+Audiofile: 
+
+----
+
+Audiostart: 
+
+----
+
+Radio: 
+
+----
+
+Author: roadie
+
+----
+
+Medias: 
+
+----
+
+Keywords: 

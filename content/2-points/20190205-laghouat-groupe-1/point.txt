@@ -1,0 +1,96 @@
+H1: 
+
+----
+
+Title: Laghouat Groupe 1
+
+----
+
+Author: roadie
+
+----
+
+H2: 
+
+----
+
+Photos: 
+
+- p9233243.jpg
+- p9233244.jpg
+- p9233248.jpg
+- img_8486.jpg
+- img_8489.jpg
+
+----
+
+Medias: 
+
+----
+
+Text: Trouver le calme
+
+----
+
+Informations: 
+
+- 
+  icon: calendar
+  text: "2017"
+  _fieldset: annee
+- 
+  icon: leaf
+  text: Ksar el Marhoun
+  _fieldset: place
+
+----
+
+H3: 
+
+----
+
+Locationtoggle: carte
+
+----
+
+Lieu: 
+
+----
+
+Location: [[33.86720855513941,2.737732082605362]]
+
+----
+
+H4: 
+
+----
+
+Relation: 
+
+----
+
+Attache: 
+
+----
+
+H5: 
+
+----
+
+Keywords: 
+
+----
+
+H6: 
+
+----
+
+Startdate: 
+
+----
+
+Enddate: 
+
+----
+
+Date: 2019-02-05

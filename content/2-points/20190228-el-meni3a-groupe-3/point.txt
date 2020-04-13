@@ -1,0 +1,96 @@
+H1: 
+
+----
+
+Title: El Meni3a Groupe 3
+
+----
+
+Author: roadie
+
+----
+
+H2: 
+
+----
+
+Photos: 
+
+- image-1.jpg
+- image-2.jpg
+- image-3.jpg
+- image-4-copie.jpg
+- image-5-copie.jpg
+
+----
+
+Medias: 
+
+----
+
+Text: 
+
+----
+
+Informations: 
+
+- 
+  icon: calendar
+  text: "2017"
+  _fieldset: annee
+- 
+  icon: drop
+  text: Sebkha El Meni3a
+  _fieldset: place
+
+----
+
+H3: 
+
+----
+
+Locationtoggle: carte
+
+----
+
+Lieu: 
+
+----
+
+Location: [[30.53328514356082,2.9284679889678955]]
+
+----
+
+H4: 
+
+----
+
+Relation: 
+
+----
+
+Attache: 
+
+----
+
+H5: 
+
+----
+
+Keywords: 
+
+----
+
+H6: 
+
+----
+
+Startdate: 
+
+----
+
+Enddate: 
+
+----
+
+Date: 

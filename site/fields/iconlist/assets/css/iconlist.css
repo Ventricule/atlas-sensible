@@ -1,0 +1,71 @@
+.field-with-headline {
+  counter-increment: count;
+}
+.field-with-headline:first-child {
+  padding-top: 0;
+}
+.field-with-headline {
+  padding-top: 6em;
+}
+.field-with-headline .hgroup span {
+  padding-left: 1.5em;
+}
+.field-with-headline .hgroup:before {
+  position: absolute;
+  content: counter(count, decimal-leading-zero);
+  left: 0;
+  color: #8dae28;
+  font-weight: 400;
+}
+
+.demo-icon
+    {
+      font-family: "entypo";
+      font-style: normal;
+      font-weight: normal;
+      speak: none;
+     
+      display: inline-block;
+      text-decoration: inherit;
+      width: 1em;
+      margin-right: .4em;
+      margin-left: .4em;
+      text-align: center;
+			
+			font-size: 1.2rem;
+     
+      /* For safety - reset parent styles, that can break glyph codes*/
+      font-variant: normal;
+      text-transform: none;
+     
+      /* fix buttons height, for twitter bootstrap */
+      line-height: 1.5em;
+     
+      /* You can be more comfortable with increased icons size */
+      /* font-size: 120%; */
+     
+      /* Font smoothing. That was taken from TWBS */
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+     
+      /* Uncomment for 3D effect */
+      /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+    }
+
+.the-icons {
+  float: left;
+	position: relative;
+}
+.i-code, .i-name {
+	display: none;
+}
+.the-icons:hover .i-name {
+	display: inline;
+	position: absolute;
+	left: 50%;
+	bottom: 50%;
+	background: #fff;
+	padding: .1rem .3rem;
+	border-radius: 2px;
+	z-index: 99999;
+}

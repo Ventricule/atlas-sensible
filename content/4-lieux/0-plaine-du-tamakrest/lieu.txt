@@ -1,0 +1,45 @@
+H1: 
+
+----
+
+Title: Tamanrasset - plaine du Tamakrest
+
+----
+
+Author: roadie
+
+----
+
+H2: 
+
+----
+
+Photos: 
+
+----
+
+Medias: 
+
+----
+
+Text: 
+
+----
+
+Informations: 
+
+----
+
+H3: 
+
+----
+
+Keywords: 
+
+----
+
+H4: 
+
+----
+
+Location: [[22.736290142346867,5.5865103006362915]]

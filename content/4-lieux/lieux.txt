@@ -1,0 +1,17 @@
+Title: Lieux
+
+----
+
+Text: 
+
+----
+
+Color: #ffc336
+
+----
+
+Points: Points associés
+
+----
+
+Lignes: Lignes associés

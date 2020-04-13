@@ -1,0 +1,14 @@
+Title: Préambule
+
+----
+
+Text: 
+
+ATLAS SENSIBLE
+
+Ce site est un exemple d'utilisation d'Atlas Sensible, outil de cartographie sensible en ligne. 
+
+Atlas Sensible est un projet libre initié par l'association Khiasma avec Samuel Rivers-Moore et Pierre Tandille.
+Il est basé sur le CMS Kirby. Vous pouvez (link: https://github.com/Ventricule/atlas-sensible text: utiliser et modifier) Atlas Sensible.
+
+Le contenu de ce site de démonstration est tiré du projet (link: http://r-n-1.lecollecteur.fr/ text: MASSAR1).

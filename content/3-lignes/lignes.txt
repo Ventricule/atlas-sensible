@@ -1,0 +1,17 @@
+Title: Lignes
+
+----
+
+Text: 
+
+----
+
+Color: #ffe066
+
+----
+
+Points: Points associés
+
+----
+
+Lieux: Lieux associés

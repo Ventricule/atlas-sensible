@@ -1,0 +1,96 @@
+H1: 
+
+----
+
+Title: Tamanghasset Groupe 1
+
+----
+
+Author: roadie
+
+----
+
+H2: 
+
+----
+
+Photos: 
+
+- 1.jpg
+- 2.jpg
+- 3.jpg
+- 4.jpg
+- 5.jpg
+
+----
+
+Medias: 
+
+----
+
+Text: Repères du nomade
+
+----
+
+Informations: 
+
+- 
+  icon: calendar
+  text: "2017"
+  _fieldset: annee
+- 
+  icon: moon
+  text: Plaine de Tamaghasset
+  _fieldset: place
+
+----
+
+H3: 
+
+----
+
+Locationtoggle: lieu
+
+----
+
+Lieu: plaine-du-tamakrest
+
+----
+
+Location: [[22.741643278081728,5.546618513180874]]
+
+----
+
+H4: 
+
+----
+
+Relation: 
+
+----
+
+Attache: 
+
+----
+
+H5: 
+
+----
+
+Keywords: 
+
+----
+
+H6: 
+
+----
+
+Startdate: 
+
+----
+
+Enddate: 
+
+----
+
+Date: 

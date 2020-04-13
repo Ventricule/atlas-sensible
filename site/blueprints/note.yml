@@ -1,0 +1,9 @@
+title: Note
+pages: false
+fields:
+  title:
+    label: Title
+    type:  text
+  text:
+    label: Texte
+    type:  textarea

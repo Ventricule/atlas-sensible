@@ -1,0 +1,30 @@
+title: Site
+pages:
+  template:
+    - points
+    - lignes
+    - lieux
+    - home
+fields:
+
+  title:
+    label: Titre
+    type:  text
+
+  description:
+    label: Description
+    type:  textarea
+
+  keywords:
+    label: Mots clés
+    type: tags
+
+  mapCenter:
+    label: Centre de la carte
+    type: carto
+    outils:
+      - point
+
+  mapZoom:
+    label: Zoom
+    type: number

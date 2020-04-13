@@ -1,0 +1,101 @@
+H1: 
+
+----
+
+Title: Route nationale 1
+
+----
+
+H2: 
+
+----
+
+Photos: 
+
+----
+
+Mediatoggle: non
+
+----
+
+Embed: 
+
+----
+
+Audiofile: 
+
+----
+
+Audiostart: 
+
+----
+
+Radio: 
+
+----
+
+Text: 
+
+----
+
+Informations: 
+
+----
+
+H3: 
+
+----
+
+Chemintoggle: oui
+
+----
+
+Chemin: [[36.756490329505155,3.0445861816406246],[33.779147331286474,2.846832275390625],[32.47269502206151,3.659820556640625],[27.176469131898898,2.39776611328125],[22.755920681486405,5.4986572265625]]
+
+----
+
+H4: 
+
+----
+
+Relation: second-stop,premier,points/premier,points/alger-groupe-2
+
+----
+
+Attache: khiasma
+
+----
+
+H5: 
+
+----
+
+Keywords: 
+
+----
+
+H6: 
+
+----
+
+Date: 2011-01-26
+
+----
+
+Modified: 2016-11-15
+
+----
+
+Startdate: 
+
+----
+
+Enddate: 
+
+----
+
+Author: pierre
+
+----
+
+Medias: 

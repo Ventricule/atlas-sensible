@@ -1,0 +1,11 @@
+Title: Crédits
+
+----
+
+Text: 
+
+L'Atlas Sensible est un projet de l'Espace Khiasma.
+Il a été réalisé par Pierre Tandille et Samuel Rivers-Moore en 2016.
+Ce site internet est fabriqué avec Kirby CMS.
+La typographie utilisée, la Whois Mono, a été créé par Raphaël Bastide et est sous licence libre.
+Ce projet a pu voir le jour grâce au soutien de la Région Ile de France, de Paris Habitat et de la Caisse des Dépôts.

@@ -1,0 +1,96 @@
+H1: 
+
+----
+
+Title: In Salah Groupe 1
+
+----
+
+Author: roadie
+
+----
+
+H2: 
+
+----
+
+Photos: 
+
+- 1.jpg
+- 2.jpg
+- 3.jpg
+- 4.jpg
+- 5.jpg
+
+----
+
+Medias: 
+
+----
+
+Text: Artistes cherchant la lumière
+
+----
+
+Informations: 
+
+- 
+  icon: calendar
+  text: "2017"
+  _fieldset: annee
+- 
+  icon: light-up
+  text: Plateau du Tadmaït
+  _fieldset: place
+
+----
+
+H3: 
+
+----
+
+Locationtoggle: lieu
+
+----
+
+Lieu: plateau-du-tadmait
+
+----
+
+Location: 
+
+----
+
+H4: 
+
+----
+
+Relation: 
+
+----
+
+Attache: 
+
+----
+
+H5: 
+
+----
+
+Keywords: 
+
+----
+
+H6: 
+
+----
+
+Startdate: 
+
+----
+
+Enddate: 
+
+----
+
+Date: 

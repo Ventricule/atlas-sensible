@@ -1,0 +1,96 @@
+H1: 
+
+----
+
+Title: Ghardaïa Groupe 1
+
+----
+
+Author: roadie
+
+----
+
+H2: 
+
+----
+
+Photos: 
+
+- img_2331.jpg
+- img_2350.jpg
+- _9284008.jpg
+- p9284021.jpg
+- p9283991.jpg
+
+----
+
+Medias: 
+
+----
+
+Text: Retour à la terre
+
+----
+
+Informations: 
+
+- 
+  icon: calendar
+  text: "2017"
+  _fieldset: annee
+- 
+  icon: water
+  text: "Oued N'Tissa"
+  _fieldset: place
+
+----
+
+H3: 
+
+----
+
+Locationtoggle: carte
+
+----
+
+Lieu: 
+
+----
+
+Location: [[32.467698535623626,3.6855674162507057]]
+
+----
+
+H4: 
+
+----
+
+Relation: 
+
+----
+
+Attache: 
+
+----
+
+H5: 
+
+----
+
+Keywords: 
+
+----
+
+H6: 
+
+----
+
+Startdate: 
+
+----
+
+Enddate: 
+
+----
+
+Date: 2019-02-04

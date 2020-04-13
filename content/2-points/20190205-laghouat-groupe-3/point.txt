@@ -1,0 +1,95 @@
+H1: 
+
+----
+
+Title: Laghouat Groupe 3
+
+----
+
+Author: roadie
+
+----
+
+H2: 
+
+----
+
+Photos: 
+
+- img_8499.jpg
+- img_8349.jpg
+- img_8481.jpg
+- img_8498.jpg
+
+----
+
+Medias: 
+
+----
+
+Text: 
+
+----
+
+Informations: 
+
+- 
+  icon: calendar
+  text: "2017"
+  _fieldset: annee
+- 
+  icon: leaf
+  text: Ksar el Marhoun
+  _fieldset: place
+
+----
+
+H3: 
+
+----
+
+Locationtoggle: carte
+
+----
+
+Lieu: 
+
+----
+
+Location: [[33.86756489395595,2.741737961769104]]
+
+----
+
+H4: 
+
+----
+
+Relation: 
+
+----
+
+Attache: 
+
+----
+
+H5: 
+
+----
+
+Keywords: 
+
+----
+
+H6: 
+
+----
+
+Startdate: 
+
+----
+
+Enddate: 
+
+----
+
+Date: 2019-02-05

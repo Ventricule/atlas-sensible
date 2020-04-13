@@ -1,0 +1,44 @@
+label: Médias
+type: builder
+style: table
+fieldsets: 
+	videoset:
+		label: Vidéo
+		snippet: builder/video
+		fields:
+			embed:
+				label: Adresse Vimeo
+				type: oembed
+				preview: false
+				cheatsheet: true
+	audioset:
+		label: MP3
+		snippet: builder/mp3
+		fields:
+			audiofile:
+				label: Fichier
+				type: select
+				options: audio
+				width: 1/3
+			audiostart:
+				label: Commencer la lecture à
+				type: number
+				placeholder: Secondes
+				width: 1/3
+			audiotitle:
+				label: Titre du son
+				type: text
+				width: 1/3
+	radioset:
+		label: Radio
+		snippet: builder/radio
+		fields:	
+			radio:
+				label: R22 Tout-Monde
+				type: text
+				help: Collez ici le code d'intégration
+				width: 1/2
+			audiotitle:
+				label: Titre du son
+				type: text
+				width: 1/2

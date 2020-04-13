@@ -1,0 +1,43 @@
+title: Point
+pages: false
+icon: map-marker
+files:
+    sortable: true
+fields:
+  h1:
+    label: Titre
+    type: headline
+  title:
+    label: Titre
+    type:  text
+    width: 3/4
+  author:
+    label: Auteur
+    type: user
+    width: 1/4
+  h2:
+    label: Contenu
+    type: headline
+  photos:
+    label: Photos
+    type: gallery
+  medias: medias
+  text:
+    label: Texte
+    type: textarea
+    size: large
+  informations: informations
+  h3:
+    label: Mots-clés
+    type: headline
+  keywords:
+    label: Mots-clés
+    type: tags
+  h4:
+    label: Géographie
+    type: headline
+  location:
+    label: Emplacement
+    type: carto 
+    outils:
+      - point

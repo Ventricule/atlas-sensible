@@ -1,0 +1,101 @@
+H1: 
+
+----
+
+Title: Alger Groupe 2
+
+----
+
+Author: roadie
+
+----
+
+H2: 
+
+----
+
+Photos: 
+
+- rn1-bab-el-oued-by-hichem_merouche-7.jpg
+- rn1-bab-el-oued-by-hichem_merouche-6.jpg
+- rn1-bab-el-oued-by-hichem_merouche-8.jpg
+- rn1-bab-el-oued-by-hichem_merouche-9.jpg
+- >
+  rn1-bab-el-oued-by-hichem_merouche-10.jpg
+
+----
+
+Medias: 
+
+----
+
+Text: 
+
+« L’IMAGINAIRE - L’OMBRE »
+Maya ouabadi - avec Chahrazed, Youssra, Meriem, Yasmine, Sabrina, Ikram, Hiba
+Rêve d'une île miniature parmi celles de Djazaïr.
+
+----
+
+Informations: 
+
+- 
+  icon: calendar
+  text: "2016"
+  _fieldset: annee
+- 
+  icon: air
+  text: Plage de Qa3ssour
+  _fieldset: place
+
+----
+
+H3: 
+
+----
+
+Locationtoggle: carte
+
+----
+
+Lieu: 
+
+----
+
+Location: [[36.78900991573011,3.063807561993599]]
+
+----
+
+H4: 
+
+----
+
+Relation: lignes/les-ambassades
+
+----
+
+Attache: 
+
+----
+
+H5: 
+
+----
+
+Keywords: 
+
+----
+
+H6: 
+
+----
+
+Startdate: 
+
+----
+
+Enddate: 
+
+----
+
+Date: 2019-02-06

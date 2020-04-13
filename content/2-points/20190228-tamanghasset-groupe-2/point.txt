@@ -1,0 +1,96 @@
+H1: 
+
+----
+
+Title: Tamanghasset Groupe 2
+
+----
+
+Author: roadie
+
+----
+
+H2: 
+
+----
+
+Photos: 
+
+- 1.jpg
+- 2.jpg
+- 3.jpg
+- 4.jpg
+- 5.jpg
+
+----
+
+Medias: 
+
+----
+
+Text: Constellation du serpent
+
+----
+
+Informations: 
+
+- 
+  icon: calendar
+  text: "2017"
+  _fieldset: annee
+- 
+  icon: moon
+  text: Plaine du Tamikrest
+  _fieldset: place
+
+----
+
+H3: 
+
+----
+
+Locationtoggle: lieu
+
+----
+
+Lieu: plaine-du-tamakrest
+
+----
+
+Location: 
+
+----
+
+H4: 
+
+----
+
+Relation: 
+
+----
+
+Attache: 
+
+----
+
+H5: 
+
+----
+
+Keywords: 
+
+----
+
+H6: 
+
+----
+
+Startdate: 
+
+----
+
+Enddate: 
+
+----
+
+Date: 

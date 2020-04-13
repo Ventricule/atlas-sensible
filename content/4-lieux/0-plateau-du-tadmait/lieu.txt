@@ -1,0 +1,45 @@
+H1: 
+
+----
+
+Title: Plateau du Tadmaït
+
+----
+
+Author: roadie
+
+----
+
+H2: 
+
+----
+
+Photos: 
+
+----
+
+Medias: 
+
+----
+
+Text: 
+
+----
+
+Informations: 
+
+----
+
+H3: 
+
+----
+
+Keywords: 
+
+----
+
+H4: 
+
+----
+
+Location: [[28.884963287544753,2.5645458698272705]]
